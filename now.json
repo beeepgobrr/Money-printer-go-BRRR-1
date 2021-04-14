@@ -5,6 +5,6 @@
     "trailingSlash": false,
     "public": false,
     "build": {
-        "env": { "FONTAWESOME_TOKEN": "@fontawesome-token" }
+        "env": { "FONTAWESOME_TOKEN": "@fortawesome/fontawesome-free" }
     }
 }
