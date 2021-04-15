@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { string, func } from 'prop-types';
 import styled from 'styled-components';
-import { faCheck } from '@fortawesome/pro-solid-svg-icons';
+import { faCheck } from '@fortawesome/free-solid-svg-icons';
 import Button from './Button';
 
 const Container = styled.div`
